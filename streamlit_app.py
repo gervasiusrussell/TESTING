@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 MENTORING BELAJAR MODEL DEP')
 
-st.write('Hello world!')
+st.write('BELAJAR UTS ANJIR!')
